@@ -13,5 +13,7 @@ You can choose two options to generate the widget for:
 * Payment.
 * Donation
 
-https://stablepay.io/widget/generator
+{% embed url="https://stablepay.io/widget/generator" %}
+
+
 
