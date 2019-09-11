@@ -8,12 +8,10 @@ description: >-
 
 The first step is go to the link below and follow the steps to generate the code, that you going to use, to embeded the widget on your site.
 
-* Fill out the form inputs
-* Select your theme
-* Generate the code
-* Copy/paste on your website
+You can choose two options to generate the widget:
 
-{% embed url="https://stablepay.herokuapp.com/widget/generator" %}
+* Payment.
+* Donation
 
-![](../.gitbook/assets/image%20%288%29.png)
+https://stablepay.io/widget/generator
 
