@@ -8,7 +8,7 @@ description: >-
 
 The first step is go to the link below and follow the steps to generate the code, that you going to use, to embeded the widget on your site.
 
-You can choose two options to generate the widget:
+You can choose two options to generate the widget for:
 
 * Payment.
 * Donation
