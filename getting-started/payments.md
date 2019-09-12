@@ -70,3 +70,5 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 </html>
 ```
 
+**Important:** the variable 'amount', it has to be given by your page. This is the amount of the product or products, that the client want to pay. 
+
