@@ -6,13 +6,13 @@ description: >-
 
 # Payments
 
-1. Choose Payment to generate your Widget.
+1.Choose Payment to generate your Widget.
 
 ![](../.gitbook/assets/image.png)
 
 **Note:** Payments are free fee for your client, if they send you DAI. Any other token wil be converted and generate fee.
 
-2.This is the address of your Ethereum wallet to receive Dai.
+2. This is the address of your Ethereum wallet to receive Dai.
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
