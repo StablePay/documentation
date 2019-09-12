@@ -14,7 +14,7 @@ description: >-
 
 ![This is optional. Name of the owner of the Ethreum wallet](../.gitbook/assets/image%20%289%29.png)
 
-![This is Optional. After the payment the widget is going to redirect to your store, put the direction here.](../.gitbook/assets/image%20%281%29.png)
+![This is Optional. After the payment, the widget is going to redirect to your store, put the direction here.](../.gitbook/assets/image%20%281%29.png)
 
 
 
