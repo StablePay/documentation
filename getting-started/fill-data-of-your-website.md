@@ -10,17 +10,17 @@ Choose the type of site you have, a site for payments\(like a store\), or a site
 
 **Donations are fee free**   
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 Put your public Ethereum adress to recieve the payments or donations in DAI.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 The name to identified your website.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 The url of your website, to redirect the client after sucessful shoping or donation.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
