@@ -10,7 +10,7 @@ The first step is go to the link below and follow the steps to generate the code
 
 You can choose two options to generate the widget for:
 
-* [Payment](https://app.gitbook.com/@stablepay/s/stablepay/~/drafts/-LofrN15qhlE3rrTOano/primary/getting-started/payments)
+* [Payments](https://stablepay.gitbook.io/stablepay/getting-started/payments)
 * Donation
 
 {% embed url="https://stablepay.io/widget/generator" %}
