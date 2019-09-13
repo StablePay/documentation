@@ -11,7 +11,7 @@ The first step is go to the link below and follow the steps to generate the code
 You can choose two options to generate the widget for:
 
 * [Payments](https://stablepay.gitbook.io/stablepay/getting-started/payments)
-* Donation
+* [Donations](https://stablepay.gitbook.io/stablepay/getting-started/donations)
 
 {% embed url="https://stablepay.io/widget/generator" %}
 
