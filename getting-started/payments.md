@@ -20,7 +20,7 @@ If you don't have a wallet, you can start with a MetaMask wallet, is easy and fa
 
 3. If you want that your payments go to **Compound** activate "Supply to Compound".
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 To learn more about **Compound**, visit their website: [https://compound.finance/](https://compound.finance/).
 
@@ -74,7 +74,7 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 7. The code has to create a button similar to the one below.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 8. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for payment.
 
