@@ -10,7 +10,7 @@ description: >-
 
 ![](../.gitbook/assets/image.png)
 
-**Note:** Note: Donations and payments directly from DAI to DAI are free of fees to receive. Any other token will be converted and a small fee will be charge before receiving the final amount. Read more here: [https://stablepay.io/faqs](https://stablepay.io/faqs)
+**Note:** Donations and payments directly from DAI to DAI are free of fees to receive, will only incur the gas costs of the transaction.. Any other token will be converted and a small fee will be charge before receiving the final amount. Read more here: [https://stablepay.io/faqs](https://stablepay.io/faqs).
 
 2. Put the address of your Ethereum wallet to receive DAIs.
 
