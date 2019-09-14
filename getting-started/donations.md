@@ -8,7 +8,7 @@ description: >-
 
 1. Choose Donation to generate your Widget.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 **Note:** Donations are free fees for your client if they send you DAI. Any other token will be converted and generate fee.
 
@@ -34,9 +34,11 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 6. After donating, the widget is going to redirect to your store, put the address here.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
-7.The code is going to be generated and you ready to paste it on your page!.
+### Donations with HTML
+
+7.The code in HTML is going to be generated and you ready to paste it on your page!.
 
 ```text
 <!DOCTYPE html>
@@ -74,7 +76,7 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 8. The code has to create a button similar to the one below.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 9. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for donating.
 
@@ -84,5 +86,23 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
+### Donations with Link
 
+11. The link is going to be generated and you ready to paste it on your page or Github!.
+
+```text
+<a href="https://stablepay.io/checkout?data=U2FsdGVkX19IkPP%2Bx25neFHS%2Bzn97z7UwRyB1XCdy9E3Kbp4TLHCfaExoprtlIZY1u%2BHHwhkJpr9EYCNUgGPWcmh4xl22S6iWrp%2FqFkU3ZiZM4WI3B%2BkLtbAYTwBi3e4EweDpUfK1UTBtJSc57S2i1uil7DoYHbr43H%2FRfQathKzcjYM70zwZpBl77WVo6M0KMXzI5GH8pbizG8XkjwT97KqwLl3yPwHy%2B0FqLu1VGcZkRkCi8%2FfM4bs%2F0hzAy%2FdRMH%2FMpTPpTxCBTszmHc1%2FynziTH5e3eIQqk%2BL9AQqkNB6c2YNcK7e09az5PgH01m5KJA6dLoOhGRrivf2XtUunhMYmioGIAY%2B6O8zRiXAIicw15RL9y8e%2F3ZIoVBtTD0cUWuvvizGcTY3FM9xWFn7PnMqqLkN2MhXd7FFeOm1zaqgiGvwtCay4KkUSV61ilE">
+    <img src="https://stablepay.io/static/DonationsButtonBlueWhite.svg" >
+</a>
+```
+
+12. You can use the link in your Github repository, pasting the link in the **README.md** repository**.**
+
+![](../.gitbook/assets/image%20%2832%29.png)
+
+![](../.gitbook/assets/image%20%2814%29.png)
+
+13. Wait for the transaction been done, and now your client can be redirected to your Github.
+
+![](../.gitbook/assets/image%20%2825%29.png)
 
