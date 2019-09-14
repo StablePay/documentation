@@ -14,7 +14,7 @@ StablePay is a decentralized payment platform that enables users to make payment
 
 The contracts function as a gateway for receiving tokens, seek the best rate for trading on existing decentralized exchanges\(Uniswap, Kyber\), and swap the tokens to DAI token, to finally send them over to the receiver.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 
 
