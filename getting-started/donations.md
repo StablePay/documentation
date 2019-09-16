@@ -8,7 +8,7 @@ description: >-
 
 1. Choose Donation to generate your Widget.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 **Note:** Donations and payments directly from DAI to DAI are free of fees to receive, will only incur the gas costs of the transaction.. Any other token will be converted and a small fee will be charge before receiving the final amount. Read more here: [https://stablepay.io/faqs](https://stablepay.io/faqs).
 
@@ -18,23 +18,23 @@ description: >-
 
 3. Put the address of your Ethereum wallet to receive DAIs.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 If you don't have a wallet, you can start with a MetaMask wallet, is easy and fast. To learn more about it:[https://metamask.io/](https://metamask.io/) 
 
 4. If you want that your payments go to **Compound** activate "Supply to Compound".
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 To learn more about **Compound**, visit their website: [https://compound.finance/](https://compound.finance/).
 
 5. Name of the owner of the Ethreum wallet\(optional\).
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 6. After donating, the widget is going to redirect to your store, put the address here.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ### Donations with HTML
 
@@ -76,15 +76,15 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 8. The code has to create a button similar to the one below.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 9. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for donating.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 10. Wait for the transaction been done, and now your client can be redirected to your store.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ### Donations with Link
 
@@ -98,11 +98,11 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 12. You can use the link in your Github repository, pasting the link in the **README.md** repository**.**
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 13. Wait for the transaction been done, and now your client can be redirected to your Github.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 

@@ -14,19 +14,19 @@ description: >-
 
 2. Put the address of your Ethereum wallet to receive DAIs.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 If you don't have a wallet, you can start with a MetaMask wallet, is easy and fast. To learn more about it:[https://metamask.io/](https://metamask.io/) 
 
 3. If you want that your payments go to **Compound** activate "Supply to Compound".
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 To learn more about **Compound**, visit their website: [https://compound.finance/](https://compound.finance/).
 
 4. Name of the owner of the Ethreum wallet\(optional\).
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 5. After the payment, the widget is going to redirect to your store, put the address here.
 
@@ -74,13 +74,13 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 7. The code has to create a button similar to the one below.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 8. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for payment.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 9. Wait for the transaction been done, and now your client can be redirected to your store.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
