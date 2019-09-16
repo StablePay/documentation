@@ -84,3 +84,5 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
+For more information, you can visit our page:[https://stablepay.io/](https://stablepay.io/)
+

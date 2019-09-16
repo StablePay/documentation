@@ -42,3 +42,5 @@ Wait for the transaction been done, and now the user can be redirected to [https
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
+For more information, you can visit our page:[https://stablepay.io/](https://stablepay.io/)
+
