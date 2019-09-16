@@ -76,11 +76,11 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-8. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for payment.
+8. When the user 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for payment.
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-9. Wait for the transaction been done, and now your client can be redirected to your store.
+9. Wait for the transaction been done, and now the user can be redirected to your store.
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 

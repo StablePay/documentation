@@ -12,7 +12,7 @@ description: >-
 
 **Note:** Donations and payments directly from DAI to DAI are free of fees to receive, will only incur the gas costs of the transaction.. Any other token will be converted and a small fee will be charge before receiving the final amount. Read more here: [https://stablepay.io/faqs](https://stablepay.io/faqs).
 
-2. Create your list of options for the client, to donate DAIs. The default amount is going to be the first in the list.
+2. Create your list of options for the user, to donate DAIs. The default amount is going to be the first in the list.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -78,11 +78,11 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-9. When the client 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for donating.
+9. When the user 'click' the button, he going to see a widget like this. where he/she can choose the token, which they prefer to use for donating.
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-10. Wait for the transaction been done, and now your client can be redirected to your store.
+10. Wait for the transaction been done, and now the user can be redirected to your store.
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
@@ -102,7 +102,7 @@ To learn more about **Compound**, visit their website: [https://compound.finance
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-13. Wait for the transaction been done, and now your client can be redirected to your Github.
+13. Wait for the transaction been done, and now the user can be redirected to your Github.
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
