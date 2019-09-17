@@ -1,17 +1,19 @@
 ---
 description: >-
   This document has the objective, to show developers and users, how to
-  incorporate the widget of StablePay, on your store or donation site.
+  configure and use the StablePay widget and Smart URLs to receive donations or request payments.
 ---
 
 # Getting Started
 
-The first step is go to the link below and follow the steps to generate the code, that you going to use, to embeded the widget on your site.
+You can choose one of the links below depending on the your preference and follow the steps to start using StablePay
 
-You can choose three options to generate the widget for:
-
-* [Payments](https://stablepay.gitbook.io/stablepay/getting-started/payments)
+If you have a Website or Github repository where you want to integrate a donations or payment widget check out:
 * [Donations](https://stablepay.gitbook.io/stablepay/getting-started/donations)
+* [Payments](https://stablepay.gitbook.io/stablepay/getting-started/payments)
+
+
+If you want to be able to share a simple link with your subscribers, users or request a peer to peer payment go to this link:
 * [Smart URLs](https://stablepay.gitbook.io/stablepay/getting-started/smart-urls)
 
 {% embed url="https://stablepay.io/widget/generator" %}
