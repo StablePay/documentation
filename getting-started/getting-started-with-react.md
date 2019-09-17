@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page describe, how can you install and use the Stable Pay widget on your
-  code.
+  This page describes how you can install and use the Stable Pay widget on your
+  code from a React project.
 ---
 
 # Using with React
