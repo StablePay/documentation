@@ -83,5 +83,5 @@ const Checkout = () => {
 export default Checkout;
 ```
 
-For more information, you can visit our page:[https://stablepay.io/](https://stablepay.io/)
+For more information, visit:[https://stablepay.io/](https://stablepay.io/)
 
