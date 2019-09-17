@@ -1,10 +1,8 @@
 ---
-description: >-
-  Welcome to StablePay documentation, this documentation is a work in progress,
-  as we finalize functionality we will adding it to the docs.
+description: This documentation will guide you step-by-step to custom your widget.
 ---
 
-# General
+# Welcome to StablePay Documentation
 
 ### What is StablePay?
 

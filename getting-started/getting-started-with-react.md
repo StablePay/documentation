@@ -6,24 +6,28 @@ description: >-
 
 # Using with React
 
-### Usage
+## Usage
 
 Enable cryptocurrency payments and donations in your site by either:
 
 * Using the Widget Component Library by installing our NPM Package in your **React App**. \(Read how to install [Here](https://www.github.com/)\) -- OR --
 * Using our Embeddable Widget in your site using **HTML/JavaScript**. \(Read our [Docs](https://github.com/dtutila/stablepay_widget/blob/master) for more information\)
 
-### Installing
+## Installing
 
 Using npm:
 
-      npm install stablepay-widget
+```text
+  npm install stablepay-widget
+```
 
 Using yarn:
 
-       yarn add stablepay-widget
+```text
+   yarn add stablepay-widget
+```
 
-### Example
+## Example
 
 Predefined Widget Button:
 

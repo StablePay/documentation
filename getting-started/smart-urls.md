@@ -1,7 +1,8 @@
 ---
 description: >-
-  This page will guide you on how to quickly create a Smart URL for
-  requesting payments that you can share anywhere, either in your content website, social media, youtube channel, etc.
+  This page will guide you on how to quickly create a Smart URL for requesting
+  payments that you can share anywhere, either in your content website, social
+  media, youtube channel, etc.
 ---
 
 # Smart URLs
@@ -12,7 +13,7 @@ The Smart URLs follow this simple easy to understand syntax:
 
 [https://payd.ai/](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)me/{amount}/{token/action}/to/{ethreum address}
 
-#### Example
+## Example
 
 amount = 1
 
@@ -20,9 +21,9 @@ token = DAI
 
 address = 0x830bAF0080766a88Ff70F124f5016efD4Af9c025
 
-#### [https://payd.ai/me/1/DAI/to/](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)0x830bAF0080766a88Ff70F124f5016efD4Af9c025
+## [https://payd.ai/me/1/DAI/to/](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)0x830bAF0080766a88Ff70F124f5016efD4Af9c025
 
-#### Example 2\(send to Compound\)
+## Example 2\(send to Compound\)
 
 amount = 1
 
@@ -30,9 +31,9 @@ action = dai2compound
 
 address = 0x830bAF0080766a88Ff70F124f5016efD4Af9c025
 
-#### [https://payd.ai/me/1/dai2compound/to/](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)0x830bAF0080766a88Ff70F124f5016efD4Af9c025
+## [https://payd.ai/me/1/dai2compound/to/](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)0x830bAF0080766a88Ff70F124f5016efD4Af9c025
 
-**Note:** Donations and payments directly from the same token (e.g DAI to DAI) are free of fees to receive, and sender will only incur the gas costs of the transaction like any normal ethereum transaction. In the case of a token conversion it will incur in a small platform fee that will be deducted from the final amount. Read more here for details: [https://stablepay.io/faqs](https://stablepay.io/faqs).
+**Note:** Donations and payments directly from the same token \(e.g DAI to DAI\) are free of fees to receive, and sender will only incur the gas costs of the transaction like any normal ethereum transaction. In the case of a token conversion it will incur in a small platform fee that will be deducted from the final amount. Read more here for details: [https://stablepay.io/faqs](https://stablepay.io/faqs).
 
 The link opens the widget, to make to transfer the token.
 

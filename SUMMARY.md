@@ -1,6 +1,6 @@
 # Table of contents
 
-* [General](README.md)
+* [Welcome to StablePay Documentation](README.md)
 * [Getting Started](getting-started/README.md)
   * [Donations](getting-started/donations.md)
   * [Payments](getting-started/payments.md)
