@@ -23,7 +23,7 @@ If you don't have a wallet, we suggest you start with a MetaMask wallet, is easy
 
 ![](../.gitbook/assets/image%20%2832%29.png)
 
-To learn more about **Compound**, visit their website: [https://compound.finance/](https://compound.finance/)
+To learn more about **Compound**, visit: [https://compound.finance/](https://compound.finance/)
 
 1. Name of the owner of the Ethreum wallet\(optional\).
 
