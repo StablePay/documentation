@@ -2,10 +2,12 @@
 description: >-
   This page will guide you on how to quickly create a Smart URL for requesting
   payments that you can share anywhere, either in your content website, social
-  media, youtube channel, etc.
+  media, Youtube channel, etc.
 ---
 
 # Smart URLs
+
+[https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a](https://payd.ai/me/10/DAI/to/0xb6568dc090302196EC8EDf56D99C3484cEe94E6a)
 
 You can build and share a link for payments or donations via message\(chat, twitter, email\). with the StablePay's Smart URLs. You can easily paste the links into your content, like newsletters, podcasts, youtube channel. You configure the URL to fit your preference in payments.
 
